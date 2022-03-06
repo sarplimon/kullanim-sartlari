@@ -9,4 +9,5 @@
 └> Herhangi bir nedenle birden fazla hesap kullanma
 
 • Bot parası ile bot dışı ticaret kesinlikle yasaktır
+
 • Botu'un tüm hakları saklıdır botu kullanan herkes onu olduğu gibi kabul etmiştir
